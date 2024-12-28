@@ -1,7 +1,7 @@
 import React from "react";
 import Home from "./Pages/Home";
 import LoginPage from "./Pages/LoginPage";
-import SignupPage from "./Pages/SignUpPage";
+import SignUpPage from "./Pages/SignUpPage";
 import PostLoginScreen from "./Pages/Postloginscreen";
 import Setting from "./Pages/Setting";
 import '@fortawesome/fontawesome-free/css/all.min.css';
